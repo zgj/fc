@@ -35,7 +35,7 @@ category: '其他功能'
 ### 操作案例
 
 - **有资源描述文件（Yaml）时**，可以直接执行`s sync`将线上资源同步到本地；
-- **纯命令行形式（在没有资源描述 Yaml 文件时）**，需要按需指定服务名、函数名等，例如`s cli fc sync --region cn-hanghzou --service-name fc-deploy-service --function-name http-trigger-py36`；
+- **纯命令行形式（在没有资源描述 Yaml 文件时）**，需要按需指定服务名、函数名等，例如`s cli fc sync --region cn-hangzhou --service-name fc-deploy-service --function-name http-trigger-py36`；
 
 上述命令的执行结果示例：
 
